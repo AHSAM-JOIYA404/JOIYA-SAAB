@@ -94,7 +94,7 @@ logo ="""
 \033[1;31m[]whatsapp   : \033[1;32m+923411471937
 \033[1;37m[] Facebook  : \033[1;32mAHSAM UL HAQ
 \x1b[1;97m======================================================"""                                          
-              THIS TOOL MR AHSAM UL HAQ JOIYA✌️
+              THIS TOOL MR AHSAM UL HAQ JOIYA
 def main_apv():
     imt = ('~AHSAM=')
     os.system('clear')
